@@ -1,6 +1,6 @@
 <template>
     <v-layout>
-        login
+        <h1>Login <i>to</i></h1>
     </v-layout>
 </template>
 <script>
@@ -13,3 +13,13 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+  h1 {
+    color: blue;
+    i {
+      font-weight: bold;
+      color: red;
+    }
+  }
+</style>

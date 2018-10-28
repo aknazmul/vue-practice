@@ -24,6 +24,6 @@
 <style lang="scss">
 .bg-wrap {
   background: url('/map-bg.png') no-repeat center center fixed;
-  background-size: cover;
+  background-size: cover; 
 }
 </style>
